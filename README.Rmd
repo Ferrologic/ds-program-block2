@@ -1,0 +1,9 @@
+---
+output: md_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Här finns data för övninge till block2
